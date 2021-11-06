@@ -2,3 +2,4 @@ Git revert commit 2
 I am the conflict
 this is sample file1
 I am adding this because I want a conflict to be created.
+I want the conflict this time.
