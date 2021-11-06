@@ -1,1 +1,2 @@
 this is sample file1
+I am adding this because I want a conflict to be created.
